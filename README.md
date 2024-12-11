@@ -5,6 +5,8 @@ This project analyzes ferritin levels across different time periods, providing i
 
 🔍 **Note:** For a comprehensive analytical report with detailed insights and visualizations, please refer to the [REPORT.md](REPORT.md) file.
 
+📊 **Interactive Dashboard:** Explore the data in real-time using our [Tableau Dashboard](https://public.tableau.com/app/profile/ty.jensen/viz/WCBSFerritinAnalysisDashboard/Dashboard3)
+
 ## Data Sources
 The project uses three CSV files containing ferritin results:
 - `Ferritin Results Feb22 to Feb23.csv`
