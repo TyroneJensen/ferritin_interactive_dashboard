@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes ferritin levels across different time periods, providing insights into donor characteristics and ferritin distribution.
 
+🔍 **Note:** For a comprehensive analytical report with detailed insights and visualizations, please refer to the [REPORT.md](REPORT.md) file.
+
 ## Data Sources
 The project uses three CSV files containing ferritin results:
 - `Ferritin Results Feb22 to Feb23.csv`
@@ -49,4 +51,3 @@ The analysis categorizes ferritin levels into:
 2. Create a virtual environment
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run Jupyter Notebook: `jupyter notebook`
-
