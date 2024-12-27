@@ -3,7 +3,7 @@
 ## Introduction
 The ferritin interactive dashboard project aims to analyze ferritin levels across different time periods, providing insights into donor characteristics and ferritin distribution. By leveraging data from multiple sources, this project uncovers patterns and trends in ferritin levels among donors.
 
-📊 **Interactive Dashboard:** Explore the data in real-time using our [Tableau Dashboard](https://public.tableau.com/app/profile/ty.jensen/viz/WCBSFerritinAnalysisDashboard/Dashboard3)
+📊 **Interactive Dashboard:** Explore the data in real-time using the [Interactive Dashboard](https://public.tableau.com/app/profile/ty.jensen/viz/WCBSFerritinAnalysisDashboard/Dashboard3)
 
 ## Background
 Ferritin monitoring in blood donors is crucial for maintaining both donor and blood supply safety. Ferritin, a protein that stores iron in the body, serves as a key indicator of iron stores. Regular monitoring helps prevent iron deficiency in donors, which can lead to anemia if left unchecked. Blood centers worldwide implement ferritin screening to:
